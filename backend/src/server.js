@@ -19,7 +19,7 @@ app.get("/tarefas", (req, res) => {
 });
 
 // ✅ GET por ID
-app.get("/tarefas/:id", (req, res) => {
+app.get("/tarefas/:id", (req, res) => {çç
   const { id } = req.params;
 
   const tarefa = tarefas.find(t => t.id == id);
