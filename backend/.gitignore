@@ -4,3 +4,7 @@ npm-debug.log
 dist/
 coverage/
 /src/generated/prisma
+
+/generated/prisma
+
+/generated/prisma
